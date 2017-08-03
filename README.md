@@ -1,4 +1,5 @@
-# freight-analysis-framework-api
+# Freight Analysis Framework API
+
 This is a project to create a proper web API for the freight analysis framework API.
 
 There is no reason this data doesn't have an active, usable, modern web API.
